@@ -1,0 +1,15 @@
+/* CSS for all components will add here */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Merriweather', serif;
+}
+
+body {
+    background-color: #3f3f3f;
+}
